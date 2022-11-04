@@ -1,0 +1,8 @@
+for a in range(29):
+   print("a_", end = "")
+print("a_")
+for a in range(29):
+   print("b_", end = "")
+print("b_")
+for a in range(30):
+   print("c_", end = "")
