@@ -1,0 +1,7 @@
+from robot import *
+for a in range(21):
+   haut()
+   droite()
+for a in range(21):
+   gauche()
+   bas()
