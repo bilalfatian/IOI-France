@@ -1,8 +1,0 @@
-from robot import*
-for a in range(20):
-   ramasser()
-   for a in range(15):
-      droite()
-   deposer()
-   for a in range(15):
-      gauche()
