@@ -1,7 +1,17 @@
-# France_IOI
+# IOI France Problem Solving Repository
 
-All the exercises I solved on France-IOI<br>
-[Profile](https://www.france-ioi.org/user/perso.php?sLogin=bilalfatian)<br>
+Welcome to my IOI France Problem Solving Repository! Here, you'll find a collection of programming exercises that I've solved on IOI France over the past three years. These exercises cover a wide range of topics and difficulty levels, allowing me to continuously improve my problem-solving skills and programming abilities.
+
+## About Me : <br>[Profile](https://www.france-ioi.org/user/perso.php?sLogin=bilalfatian)<br>
+
+I started working on these problems when I was just 14 years old, and continued until I was 17, all in my free time out of sheer interest. So, please forgive me if the structure of the code isn't as optimized or polished as it could be. I've been learning and growing along the way, and this repository reflects that journey.
+
+## Why IOI France?
+
+Participating in IOI France has been an incredible journey for me. Not only has it provided me with a platform to test and improve my programming skills, but it has also connected me with a vibrant community of like-minded individuals passionate about coding and problem solving. The diverse range of problems offered by IOI France has broadened my understanding of algorithms and data structures, equipping me with the tools to tackle complex real-world problems.
+
+
+**Thank you for visiting my repository, and happy coding!**
 
 ## Completed Puzzles
 
